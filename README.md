@@ -13,7 +13,7 @@ This project provides a comprehensive sales performance analysis using Power BI.
 
 ## Files
 - **Power BI file (`sales_analysis.pbix`)**: The main Power BI report file.
-- **Data Sources**: If applicable, upload or link to any external datasets used (Excel files, databases, etc.).
+- **Data Sources**: If applicable, upload or link to any external datasets used (Excel files).
 
 ## Usage
 1. Download the Power BI file `sales_analysis.pbix`.
